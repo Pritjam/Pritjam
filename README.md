@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pritjam
+- 👀 I’m interested in object-oriented programming, machine learning, and game design
+- 🌱 I’m currently learning Go and C++
+- 💞️ I’m looking to collaborate on cool projects!
+- 📫 You can reach me via email at pritjam@gmail.com
